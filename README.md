@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am working on website for quotes called quotesdiary. Its awesome platform for get Latest Hindi Status Shayari, Latest Gujarati Status Shayari and Latest English Quotes. QuotesDiary have largest collection of Best Status and Shayari and its come with beautiful image of shayari, quotes and status. For More information and enjoy it. Please visit on https://quotesdiary.com/ 
+I will add more information later here.
+Thanks!
